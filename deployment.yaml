@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: karthikrkh/pr2
+        image: karthikrkh/project
         ports:
         - containerPort: 80
